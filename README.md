@@ -21,6 +21,30 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ The bar in the Explorer title bar
+
+<p align="center"><img src="screenshots/01.png" alt="The bar in the Explorer title bar" width="850"></p>
+
+### 2️⃣ Arrange the symbols of your bar
+
+<p align="center"><img src="screenshots/02.png" alt="Arrange the symbols of your bar" width="850"></p>
+
+### 3️⃣ Add Windows locations with one tick
+
+<p align="center"><img src="screenshots/03.png" alt="Add Windows locations with one tick" width="850"></p>
+
+### 4️⃣ General settings
+
+<p align="center"><img src="screenshots/04.png" alt="General settings" width="850"></p>
+
+### 5️⃣ Built-in help
+
+<p align="center"><img src="screenshots/05.png" alt="Built-in help" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Launcher bar in the title bar:** Your programs, folders and shortcuts sit right next to Minimize, Maximize and Close of every File Explorer window. Optionally on all windows or everywhere.

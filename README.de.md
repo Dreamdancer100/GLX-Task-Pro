@@ -21,6 +21,30 @@
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Die Leiste in der Titelleiste des Explorers
+
+<p align="center"><img src="screenshots/01.png" alt="Die Leiste in der Titelleiste des Explorers" width="850"></p>
+
+### 2️⃣ Symbole der Leiste anordnen
+
+<p align="center"><img src="screenshots/02.png" alt="Symbole der Leiste anordnen" width="850"></p>
+
+### 3️⃣ Windows-Orte mit einem Haken hinzufügen
+
+<p align="center"><img src="screenshots/03.png" alt="Windows-Orte mit einem Haken hinzufügen" width="850"></p>
+
+### 4️⃣ Allgemeine Einstellungen
+
+<p align="center"><img src="screenshots/04.png" alt="Allgemeine Einstellungen" width="850"></p>
+
+### 5️⃣ Integrierte Hilfe
+
+<p align="center"><img src="screenshots/05.png" alt="Integrierte Hilfe" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Startleiste in der Titelleiste:** Deine Programme, Ordner und Verknüpfungen sitzen direkt neben Minimieren, Maximieren und Schließen jedes Explorer-Fensters. Auf Wunsch auf allen Fenstern oder überall.
