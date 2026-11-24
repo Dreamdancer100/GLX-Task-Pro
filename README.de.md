@@ -21,6 +21,30 @@
 
 ---
 
+## 📖 Über GLX Task Pro
+
+### Deine Programme in jeder Titelleiste
+
+GLX Task Pro setzt eine kleine Startleiste mit deinen Programmen, Ordnern und Verknüpfungen direkt in die Titelleiste deiner Explorer-Fenster, neben Minimieren, Maximieren und Schließen. Auf Wunsch erscheint sie an allen Fenstern oder überall. In Vollbild-Programmen wie Spielen, Videos oder Präsentationen fährt sie oben am Bildschirmrand herein, sobald die Maus ihn berührt.
+
+### Ordner, Menüs und Windows-Orte
+
+Aufklapp-Ordner öffnen sich wie Stapel und halten die Leiste kurz. Neben dem Start-Button sitzt ein zweispaltiges Aufklappmenü mit Listen- oder Kachelansicht und Effekten wie Ausrollen, Verpixeln oder Kristallisieren. Dieser PC, Laufwerke, Papierkorb und deine Benutzerordner kommen mit einem Haken dazu und zeigen das echte Windows-Kontextmenü.
+
+### Ziehen, ablegen, senden
+
+Ziehe Dateien aus dem Explorer direkt auf die Leiste oder in einen Aufklapp-Ordner, oder wähle per Rechtsklick Senden an > GLX Task Pro. Symbole wählst du aus den eingebauten Sammlungen Modern und Retro oder aus eigenen Ordnern.
+
+### Dein Aussehen
+
+13 Designs von GLX Neon bis Hell, oder automatisch wie Windows. Zoom beim Überfahren, eigene Farben, Transparenz und Schriftgröße bis 175 %, Deutsch und Englisch.
+
+### Sicher und geprüft
+
+GLX Task Pro verändert keine anderen Programme. Updates werden im Programm angekündigt und erst nach einer signierten Prüfsummen-Kontrolle installiert. 7 Tage kostenlos testen, danach mit Lizenz freischalten.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Die Leiste in der Titelleiste des Explorers

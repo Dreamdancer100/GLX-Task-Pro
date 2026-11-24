@@ -21,6 +21,30 @@
 
 ---
 
+## 📖 About GLX Task Pro
+
+### Your programs in every title bar
+
+GLX Task Pro puts a small launcher bar with your programs, folders and shortcuts right into the title bar of your File Explorer windows, next to Minimize, Maximize and Close. If you like, it appears on all windows or everywhere. In full-screen programs such as games, videos or presentations it slides in at the top edge of the screen as soon as the mouse touches it.
+
+### Folders, menus and Windows places
+
+Drop-down folders open like stacks and keep the bar short. A two-column pop-up menu sits next to the Start button, with list or tile view and opening effects such as Roll out, Pixelate or Crystallize. This PC, drives, the Recycle Bin and your user folders are added with one tick and show the real Windows right-click menu.
+
+### Drag, drop and send
+
+Drag files from File Explorer straight onto the bar or into a drop-down folder, or right-click any file and choose Send to > GLX Task Pro. Pick icons from the built-in Modern and Retro collections or from your own folders.
+
+### Your look
+
+13 themes from GLX Neon to Light, or follow Windows automatically. Zoom on hover, your own colours, transparency and text size up to 175 %, German and English.
+
+### Safe and tested
+
+GLX Task Pro never modifies other programs. Updates are announced in the program and installed only after a signed checksum check. Try it free for 7 days, then unlock it with a licence.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ The bar in the Explorer title bar
